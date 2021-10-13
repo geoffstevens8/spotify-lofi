@@ -1,0 +1,1 @@
+tell application "Spotify" to play track "spotify:playlist:37i9dQZF1DWWQRwui0ExPn"
